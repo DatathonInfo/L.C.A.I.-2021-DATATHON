@@ -1,7 +1,9 @@
 # L.C.A.I.-2021-DATATHON
 후두내시경 이미지의 AI 학습데이터를 이용한 데이터톤 
 
-![LCAIDATATHONE POSTER__대지 1 사본 2](https://user-images.githubusercontent.com/92664643/144180593-1f0fefca-6497-43e4-b177-2bb6a569a1f4.png)
+
+![a2포스터_인쇄용_201217_outline_대지 1 사본 2](https://user-images.githubusercontent.com/92664643/144184224-a71c9de1-b4fc-46f2-b63f-92f369b51d2b.png)
+
 
 
 L.C.A.I. 2021은 ‘2021 인공지능 학습용 데이터 구축사업’을 통해 만들어진 후두내시경 학습용 데이터를 활용하여 후두 종양을 효과적으로 예측할 수 있는가에 대한 AI 모델링 챌린지입니다.
