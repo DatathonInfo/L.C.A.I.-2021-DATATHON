@@ -1,6 +1,8 @@
 # L.C.A.I.-2021-DATATHON
 후두내시경 이미지의 AI 학습데이터를 이용한 데이터톤 
-![LCAIDATATHONE POSTER_](https://user-images.githubusercontent.com/92664643/143522255-06658d23-eba6-4133-b125-6597afd5a9ba.png)
+
+![LCAIDATATHONE POSTER__대지 1 사본 2](https://user-images.githubusercontent.com/92664643/144180593-1f0fefca-6497-43e4-b177-2bb6a569a1f4.png)
+
 
 A.I.D.D. 2021은 ‘2021 인공지능 학습용 데이터 구축사업’을 통해 만들어진 학습용 데이터를 활용하여 당뇨병을 효과적으로 예측할 수 있는가에 대한 AI 모델링 챌린지입니다.
 
