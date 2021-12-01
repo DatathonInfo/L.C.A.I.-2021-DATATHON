@@ -29,23 +29,23 @@ AI 전문가들과 함께 인공지능 모델 개발에 도전하실 분들을 �
   </tr>
   <tr>
     <td align=center>
-      <strong> 대상 (1팀) </strong><br>
+      <strong> 1위 </strong><br>
     </td>
-    <td align=center> 경희의료원장상 </td>
+    <td align=center> 대상 (1팀) </td>
     <td>  300만원 </td>
   </tr>
     <tr>
     <td align=center>
-      <strong> 최우수상 (1팀)</strong><br>
+      <strong> 2위 </strong><br>
     </td>
-    <td align=center> 경희의과학연구원장상 </td>
+    <td align=center> 최우수상 (1팀) </td>
         <td align=center> 150만원 </td>
    </tr>
       <tr>
     <td align=center>
-      <strong> 우수상 (1팀)</strong><br>
+      <strong> 3위 </strong><br>
     </td>
-    <td align=center>인공지능빅데이터팀장상</td>
+    <td align=center> 우수상 (1팀) </td>
         <td align=center>  50만원 </td>
    </tr>
 </table>
@@ -69,28 +69,24 @@ AI 전문가들과 함께 인공지능 모델 개발에 도전하실 분들을 �
     <td align=center>
             <strong>개회식 및 설명회</strong><br>
     </td>
-    <td align=center> 2021년 11월 18일 14:00~ </td>
-    <td align=center> 온라인(NSML) </td>
+    <td align=center> 2021년 12월 12일 14:00~ </td>
+    <td align=center> 온라인 공지 </td>
   </tr>
     <tr>
     <td align=center>      
              <strong>대회</strong><br>
     </td>
-    <td align=center> 2021년 11월 26일 ~ 11월 29일</td>
-    <td align=center> 온라인(NSML) </td>
+    <td align=center> 2021년 12월 13일 ~ 12월 15일</td>
+    <td align=center> 온라인 </td>
   </tr>
   </table>
 
 ## 심사기준
 >- 서면평가: 참가신청서, 참가팀 역량 (예선 진출팀 5개 팀 선발)
 >- 대회: 종료 시점 후 제출된 결과요약지와 개발 모델 제출 
->
--  제출 내용: 학습코드, 모델 Weight, 환경, 모델설명 1GB 미만
-
--  필수 제출 파일 : 모델 1. 테스트 코드와 모델 
-
-                          > 파일명 : 팀명_LCAI2021.h5/pth/py
-
+>> -  제출 내용: 학습코드, 모델 Weight, 환경, 모델설명 1GB 미만
+>> -  필수 제출 파일 : 모델 1. 테스트 코드와 모델 > 압축 파일명 : 팀명_LCAI2021.h5/pth/py
+                      결과요약지 1. 첨부파일 참고 > PDF 파일명 : 팀명_LCAI2021_결과요약지.pdf
 >*모델 사이즈 제한 1GB 미만 <br>
 >*동점자 발생 시 모델 제출 시간이 빠른 순서, 모델 크기가 작은 순서 순으로 우선순위 결정 <br>
   
