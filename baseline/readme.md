@@ -14,19 +14,20 @@ $ python preprocessing.py \
 --img_width=[target_width]
 ```
 
-![image-20211210201027281](C:\Users\82103\AppData\Roaming\Typora\typora-user-images\image-20211210201027281.png)
+![image](https://user-images.githubusercontent.com/92664643/145568215-2f51579f-7aac-41cf-9aa7-5f12e601769e.png)
+
 
 
 
 ### 2. Dataset
 
-* `ImageDataset`  Data Loader 
+* `ImageDataset` :   Data Loader 
 
 
 
 ### 3. Model
 
-* `ResNetUNet` Model Network
+* `ResNetUNet`  : Model Network
 
 
 
