@@ -73,10 +73,12 @@ AI 전문가들과 함께 인공지능 모델 개발에 도전하실 분들을 �
     <td align=center>      
              <strong>대회</strong><br>
     </td>
-    <td align=center> 2021년 12월 13일 ~ 12월 15일</td>
+    <td align=center> 2021년 12월 13일 14:00 ~ 12월 15일 14:00 </td>
     <td align=center> 온라인 </td>
   </tr>
   </table>
+  
+  **대회기간 이후에는 서버 접속이 불가능합니다.**
 
 ## 심사기준
 - 서면평가: 참가신청서, 참가팀 역량 (예선 진출팀 5개 팀 선발)
