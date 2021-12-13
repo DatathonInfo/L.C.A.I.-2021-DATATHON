@@ -1,4 +1,4 @@
-# L.C.A.I.-2021-DATATHON
+# L.C.A.I. 2021 DATATHON
 후두내시경 이미지의 AI 학습데이터를 이용한 데이터톤 
 
 
