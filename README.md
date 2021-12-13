@@ -66,7 +66,7 @@ AI 전문가들과 함께 인공지능 모델 개발에 도전하실 분들을 �
     <td align=center>
             <strong>개회식 및 설명회</strong><br>
     </td>
-    <td align=center> 2021년 12월 12일 14:00~ </td>
+    <td align=center> 2021년 12월 13일 14:00~ </td>
     <td align=center> 온라인 공지 </td>
   </tr>
     <tr>
